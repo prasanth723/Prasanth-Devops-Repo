@@ -1,0 +1,18 @@
+Hi Welcome to devops training 
+
+git install using CLI 
+git uninstall using CLI 
+how to create a file or folder 
+how to delete a file or folder 
+how to view the files in a folder 
+how to view the content in a folder 
+how to edit the contents in a folder - pedning 
+how to clone to git repo
+how to add to stabge 
+how to commit 
+how to pull or push 
+how to check the logs 
+how to check the commit details - pending 
+how to create repo 
+
+
